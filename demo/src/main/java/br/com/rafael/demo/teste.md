@@ -1,1 +1,0 @@
-<kbd>Ctrl + E<kbd>
